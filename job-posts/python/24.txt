@@ -1,0 +1,4 @@
+Company Name: DealsCorner
+Job Role: Python
+Skills Required: python,css,oops,linux,debugging,html,javascript
+Published Date: Posted 4 days ago

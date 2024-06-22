@@ -1,0 +1,4 @@
+Company Name: SEVEN CONSULTANCY
+Job Role: Python
+Skills Required: rest,python,oracle,sybase,bi,storage,javascript,nosql,sql,pythonscripting,java,xml,linux,mysql,unix
+Published Date: Posted 1 day ago

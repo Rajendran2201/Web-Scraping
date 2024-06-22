@@ -1,0 +1,4 @@
+Company Name: AxisTechnolabs
+Job Role: Python
+Skills Required: python,django,itskills,html5,api,jquery
+Published Date: Posted 4 days ago
